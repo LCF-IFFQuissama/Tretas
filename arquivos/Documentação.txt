@@ -1,2 +1,3 @@
 Tamanho do tabuleiro impresso em lona: 59,50cm X 88,00cm
+
 Tamanho de um papel A1: 59,40cm X 84,10cm
